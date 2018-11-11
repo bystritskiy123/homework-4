@@ -1,0 +1,8 @@
+
+.firstbutton a button{
+    background:green;
+    width:25%;
+    padding:1%;
+    border-radius:10px 10px 10px 10px; 
+    font-size:120%;
+}
